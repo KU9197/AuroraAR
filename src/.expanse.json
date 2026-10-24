@@ -498,7 +498,8 @@
       },
       "components": {},
       "name": "Plane",
-      "order": 0.6200409926157459
+      "order": 0.6200409926157459,
+      "hidden": true
     }
   },
   "sky": {
